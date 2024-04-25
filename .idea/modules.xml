@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Clock/Clock.iml" filepath="$PROJECT_DIR$/Clock/Clock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OTPEncryption/OTPEncryption.iml" filepath="$PROJECT_DIR$/OTPEncryption/OTPEncryption.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Projects.iml" filepath="$PROJECT_DIR$/.idea/Projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TextApp/TextApp.iml" filepath="$PROJECT_DIR$/TextApp/TextApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/login2.0/login2.0.iml" filepath="$PROJECT_DIR$/login2.0/login2.0.iml" />
+    </modules>
+  </component>
+</project>
